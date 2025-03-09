@@ -1,1 +1,2 @@
-Probando.
+Esto es una prueba.
+En rojo se verá lo eliminado/modificado. En verde lo añadido.
